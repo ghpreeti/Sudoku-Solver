@@ -1,3 +1,5 @@
+# Visit master branch for the reference of code
+
 # Sudoku-Solver
 
 A web-based Sudoku solver built using HTML, CSS, and JavaScript. This application leverages the backtracking algorithm to solve Sudoku puzzles efficiently.
