@@ -4,6 +4,9 @@
 
 A web-based Sudoku solver built using HTML, CSS, and JavaScript. This application leverages the backtracking algorithm to solve Sudoku puzzles efficiently.
 
+<img width="479" alt="image" src="https://github.com/ghpreeti/Sudoku-Solver/assets/115339754/d90d0647-2f0c-447b-a1aa-277203643133">
+
+
 # Introduction
 The Sudoku Solver is a web application designed to solve 9x9 Sudoku puzzles using a backtracking algorithm. Enter your puzzle into the grid, and the solver will fill in the blanks for you.
 
